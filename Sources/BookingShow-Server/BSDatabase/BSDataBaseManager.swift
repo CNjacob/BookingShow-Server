@@ -10,7 +10,7 @@ import Foundation
 import PerfectMySQL
 
 // MARK: 数据库信息
-let mysql_host = "127.0.0.1"
+let mysql_host = "207.246.98.174"
 let mysql_user = "root"
 let mysql_password = "Jacob@1121"
 let mysql_database = "BookingShow"

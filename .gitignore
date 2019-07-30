@@ -64,7 +64,6 @@ fastlane/screenshots
 
 Packages/
 BookingShow-Server.xcodeproj
-Tests/
 webroot/
 Package.pins
 Package.resolved

@@ -1,7 +1,7 @@
 import XCTest
 
-import BookingShow_ServerTests
+import BookingShowTests
 
 var tests = [XCTestCaseEntry]()
-tests += BookingShow_ServerTests.allTests()
+tests += BookingShowTests.allTests()
 XCTMain(tests)

@@ -63,7 +63,7 @@ fastlane/report.xml
 fastlane/screenshots
 
 Packages/
-BookingShow-Server.xcodeproj
+BookingShow.xcodeproj
 webroot/
 Package.pins
 Package.resolved

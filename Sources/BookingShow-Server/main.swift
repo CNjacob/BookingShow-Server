@@ -1,6 +1,6 @@
 var routesArr = [Dictionary<String, Any>]()
 
-var someDict1 : [String:String] = ["method":"GET", "baseUri":"/api"]
+var someDict1 : [String:String] = ["method":"GET", "baseUri":"/bookingshow/api"]
 
 routesArr.append(someDict1)
 

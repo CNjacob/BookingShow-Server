@@ -70,7 +70,7 @@ open class BSNetworkServerManager {
             result.updateValue("", forKey: "data")
         }
         guard let jsonString = try? result.jsonEncodedString() else {
-            return""
+            return ""
         }
         return jsonString
     }

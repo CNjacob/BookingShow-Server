@@ -11,6 +11,7 @@ import PerfectMySQL
 
 // MARK: 数据库信息
 let mysql_host = "207.246.98.174"
+//let mysql_host = "0.0.0.0"
 let mysql_user = "root"
 let mysql_password = "Jacob@1121"
 let mysql_database = "BookingShow"
